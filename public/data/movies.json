@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "When Harry Met Sally",
+    "description": "Dos amigos de larga data exploran si hombres y mujeres pueden ser solo amigos sin que surja el romance.",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/e72490306384ccdd78dbd6c0afa4d4250d5ce0d985c2d3fa730205ae7ac526e4._RI_V_TTW_.jpg"
+  },
+  {
+    "id": 2,
+    "title": "10 Things I Hate About You",
+    "description": "Un joven intenta conquistar a una chica rebelde para ayudar a su amigo a salir con su hermana.",
+    "image": "https://m.media-amazon.com/images/S/pv-target-images/256db8c1ad6175062af538bb3185a404a8081762aa61368c1729197aa11b7368.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Pretty Woman",
+    "description": "Una joven trabajadora sexual y un empresario solitario desarrollan una inesperada historia de amor en Los Ángeles.",
+    "image": "https://i.pinimg.com/originals/02/4b/f9/024bf9338aff8bd58b51cb4ef019c5c9.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Bridget Jones's Diary",
+    "description": "Una mujer londinense soltera decide llevar un diario donde relata sus desventuras románticas y profesionales.",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjc3NjU1ZTEtNmNjNi00YzNiLWI3OWQtMTJmYTRkZDc1NDE2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Love Actually",
+    "description": "Varias historias de amor se entrelazan en Londres durante la época navideña.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY4NjQ5NDc0Nl5BMl5BanBnXkFtZTYwNjk5NDM3._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "id": 6,
+    "title": "The Proposal",
+    "description": "Una jefa obliga a su asistente a casarse con ella para evitar ser deportada.",
+    "image": "https://th.bing.com/th/id/R.4391eb2255ed62052ce2447eeccd59bb?rik=NzBHvD8AltIc8g&pid=ImgRaw&r=0"
+  },
+  {
+    "id": 7,
+    "title": "To All the Boys I've Loved Before",
+    "description": "Las cartas secretas de una adolescente a sus enamorados son enviadas accidentalmente.",
+    "image": "https://fontmeme.com/images/to-all-the-boys-ive-loved-before-font.jpg"
+  }
+]
